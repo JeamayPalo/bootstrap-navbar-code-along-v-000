@@ -1,0 +1,5 @@
+Hello! I had a problem with the following lessons under the Boostrap framework: The Bootstrap Codealong, the Bootstrap Grid System, Layout Grid Codealong and Bootstrap Navbar codealongs.
+
+In the last 2 lesson of this chapter (Layout Grid Codealong and Bootstrap Navbar codealongs), it seems to need work that is done from the previous 2 lessons. However, the previous 2 lessons were only on Sandbox, and were therefore not saving anything. When I talked to technical coaches, they said I needed to push it to github anyway. But Sandbox was not able to open the zipfiles from bootstrap, so what I did was I opened IDE in my Layout Grid lesson, and did the Bootstrap Codealong lesson in that file instead. However, all the exceptional realty files do not exist in that IDE either, so I don't know where to write my code. Is there something I'm missing? I'm not sure how to proceed with these lessons.
+
+The coaches have been helpful, but they too aren't sure on how to proceed. This seems to be a curriculum issue. I've created an issue on Github regarding this, and there seems to be six other issues about this lesson.  
